@@ -2,8 +2,6 @@
 
 user : admin\
 pass : admin
-\
-\
 
 TUGAS MUHAMMAD HADI\
 NPM : 1817101436
